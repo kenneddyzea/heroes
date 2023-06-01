@@ -4,4 +4,4 @@ Gaston Coronel
 Gaspar Borgogno
 Mateo Mariotti
 Daniel Silva
-Kenneddy Zea
+Kenneddy Zea, 25, vivo en Buenos Aires
