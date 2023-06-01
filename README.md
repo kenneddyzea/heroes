@@ -1,6 +1,6 @@
 # heroes
 practica #3
-Gaston Coronel
+Gaston Coronel, 24, vivo en Lanus Este
 Gaspar Borgogno
 Mateo Mariotti, 20, vivo en Ensenada
 Daniel Silva
